@@ -1,1 +1,1 @@
-# MSS04-labs
+# MSS04-labs Lab exercises for Advanced Programming (MSS-04)
